@@ -131,6 +131,10 @@ matplotlib
 
 ---
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RehanRaza/food-vision-101/blob/main/Food_Vision_PyTorch.ipynb)
+
+---
+
 ## 📚 References
 
 - [Food101 Dataset](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/) — Bossard et al., 2014
