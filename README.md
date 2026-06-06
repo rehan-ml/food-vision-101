@@ -131,7 +131,7 @@ matplotlib
 
 ---
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RehanRaza/food-vision-101/blob/main/Food_Vision_PyTorch.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rehan-ml/food-vision-101/blob/main/Food_Vision_Project.ipynb)
 
 ---
 
