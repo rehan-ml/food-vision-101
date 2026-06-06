@@ -1,0 +1,28 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Saved models
+models/
+*.pth
+*.pt
+
+# Downloaded dataset (~5GB — too large for GitHub)
+data/
+
+# Helper script (auto-downloaded in notebook)
+helper_functions.py
+pytorch-deep-learning/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+.env/
